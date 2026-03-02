@@ -1,8 +1,7 @@
-crisps
-popcorn
-biscuits
-chevda
-sweets
-chocolate
-cookies
-bubble gum
+spoons
+knives
+sufurias
+thermos
+plates
+cups
+lids
