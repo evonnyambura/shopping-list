@@ -1,7 +1,6 @@
-spoons
-knives
-sufurias
-thermos
-plates
-cups
-lids
+gloves
+detergent
+barsoap
+bleaching agent
+broom
+mop
